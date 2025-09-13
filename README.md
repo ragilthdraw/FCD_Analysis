@@ -11,7 +11,7 @@ Project ini menghitung Forest Canopy Density (FCD) menggunakan data Landsat 8/9 
 
 ## Cara pakai
 1. **GEE JavaScript (Code Editor)**
-- Buka `gee_js/fcd_analysis.js` di Code Editor (https://code.earthengine.google.com)
+- Buka `gee_js/fcd_analysis.js` di Code Editor (https://code.earthengine.google.com/8f0ecee4e0e80a2b8a4dd31b54bbe20a)
 - Update path asset ROI (`var roi = ee.FeatureCollection('...')`) jika perlu
 - Jalankan script, periksa layer dan Console
 - Publikasikan App (optional) dari Code Editor: *File → New → App* atau *Get link to app*
